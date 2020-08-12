@@ -9,7 +9,7 @@ Supplementary Material: Click this [Dropbox link](https://www.dropbox.com/s/folo
 + `4.Examples of Adversarial Traffic Signs`: Some examples.  
 
 ## Acknowledgement  
-This project is what I do in my thesis of B.Eng in Electronic and Information Engineering.  
+This project is what I do in my thesis of B.Eng. in Electronic and Information Engineering.  
 I appreciate support from VeriMake, issues are also welcome on [VeriMake BBS](https://verimake.com/) *(in Chinese)*.  
 
 ## Reference  
